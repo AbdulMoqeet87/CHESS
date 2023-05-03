@@ -1,0 +1,11 @@
+RNBQKBNR
+P-PPPPPP
+--------
+-P------
+--------
+--------
+pppppppp
+rnbqkbnr
+2
+584
+600
